@@ -70,7 +70,7 @@ class="header">
     </div>
 </div>
 
-*separated code and created aside and footer html structures 
+* separated code and created aside and footer html structures 
  <aside
  class="benefits">
         <div class="benefit-lead">
