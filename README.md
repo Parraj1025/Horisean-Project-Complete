@@ -9,15 +9,15 @@ refactor the site to allow for better accessibility functions and organize semat
 
 ## mock up 
 
-<div>
+<p>
 <img src="/assets/images/mockup.png>" alt="mockup">
-</div>
-<div>
+</p>
+<p>
 <img src="/assets/images/mockup2.png>" alt="mockup2">
-</div>
-<div>
+</p>
+<p>
 <img src="/assets/images/mockup3.png>" alt="mockup3">
-</div>
+</p>
 
 ## Changes
 
