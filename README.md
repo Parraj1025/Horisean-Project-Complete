@@ -9,7 +9,7 @@ refactor the site to allow for better accessibility functions and organize semat
 
 ## mock up 
 <div>
-<img src="/Horisean-Project-Complete/assets/images/mockup.png">
+<img src="./assets/images/mockup.png">
 </img>
 
 
