@@ -10,13 +10,13 @@ refactor the site to allow for better accessibility functions and organize semat
 ## mock up 
 
 <div>
-<img src="/Horisean-Project-Complete/assets/images/mockup.png>" alt="mockup">
+<img src="/assets/images/mockup.png>" alt="mockup">
 </div>
 <div>
-<img src="/Horisean-Project-Complete/assets/images/mockup2.png>" alt="mockup2">
+<img src="/assets/images/mockup2.png>" alt="mockup2">
 </div>
 <div>
-<img src="/Horisean-Project-Complete/assets/images/mockup3.png>" alt="mockup3">
+<img src="/assets/images/mockup3.png>" alt="mockup3">
 </div>
 
 ## Changes
