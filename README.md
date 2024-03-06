@@ -71,7 +71,7 @@ class="header">
 </div>
 
 * separated code and created aside and footer html structures 
- <aside
+ <aside>
  class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
