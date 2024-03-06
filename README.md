@@ -108,3 +108,20 @@ class="header">
     </p>
  </footer>
 ```
+
+* in the style sheet i consolidated the benefits styling by separating them by a comma and condensing into one rule.
+```css
+}
+.benefit-lead ,.benefit-brand,.benefit-cost{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+```
+
+* i also changed color of the seo to make the brand objective more recognizeable 
+```css
+
+.header h1 .seo {
+    color: orange;
+}
+```
