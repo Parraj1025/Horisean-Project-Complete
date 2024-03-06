@@ -7,12 +7,17 @@ this document pertains to week one challenge for HTML,CSS and Git. Source code f
 
 refactor the site to allow for better accessibility functions and organize sematic structure.
 
+# URL 
+ https://parraj1025.github.io/Horisean-Project-Complete/ 
+
 ## mock up 
 <div>
-<img src="./assets/images/mockup.png">
+<img src="./assets/images/mockup.png" alt="mockup1">
 </img>
-
-
+<img src="./assets/images/mockup2.png" alt="mockup2">
+</img>
+<img src="./assets/images/mockup3.png" alt="mockup3">
+</img>
 ## Changes
 
 * added title to <title> element 
