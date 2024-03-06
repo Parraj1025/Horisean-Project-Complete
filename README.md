@@ -13,7 +13,7 @@ refactor the site to allow for better accessibility functions and organize semat
 * added title to <title> element 
 ```html
 <title>Horisean Solutions</title>
-```html
+```
 
 * added <nav> to html structure 
  ```html
@@ -34,8 +34,7 @@ class="header">
             </ul>
         </div>
 </nav>
-```html
-
+```
 * added id categorization to "search engine optimization" to allow navigation to work 
 ```html
   <div id="search-engine-optimization" class="search-engine-optimization">
@@ -44,7 +43,7 @@ class="header">
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
-```html
+```
 
 * added "alt" feature to site in order to better accessibility when pictures do not load
 ```html
@@ -73,7 +72,7 @@ class="header">
         </div>
     </div>
 </div>
-```html
+```
 
 * separated code and created aside and footer html structures 
 ```html
@@ -108,4 +107,4 @@ class="header">
         &copy; 2024 Horiseon Social Solution Services, Inc.
     </p>
  </footer>
-```html
+```
