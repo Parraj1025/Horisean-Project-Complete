@@ -1,7 +1,7 @@
 
 # Horisean Project Refactoring
 
-this document pertains to week one challenge for HTML,CSS and Git. Source code found in "source code subfolder" cloned from UCF bootcampp repository 
+this document pertains to week one challenge for HTML,CSS and Git. Source code cloned from UCF bootcampp repository 
 
 # Mission
 
