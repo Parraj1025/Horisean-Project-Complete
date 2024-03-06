@@ -9,15 +9,15 @@ refactor the site to allow for better accessibility functions and organize semat
 
 ## mock up 
 
-<p>
-<img src="/assets/images/mockup.png>" alt="mockup">
-</p>
-<p>
+
+<img src="/Horisean-Project-Complete/assets/images/mockup.png>
+
+
 <img src="/assets/images/mockup2.png>" alt="mockup2">
-</p>
-<p>
+
+
 <img src="/assets/images/mockup3.png>" alt="mockup3">
-</p>
+
 
 ## Changes
 
