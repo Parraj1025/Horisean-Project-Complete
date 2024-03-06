@@ -11,12 +11,12 @@ refactor the site to allow for better accessibility functions and organize semat
 ## Changes
 
 * added title to <title> element 
-'''html
+```html
 <title>Horisean Solutions</title>
-'''html
+```html
 
 * added <nav> to html structure 
-'''html
+ ```html
 <nav 
 class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
@@ -34,20 +34,20 @@ class="header">
             </ul>
         </div>
 </nav>
-'''html
+```html
 
 * added id categorization to "search engine optimization" to allow navigation to work 
-'''html
+```html
   <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" alt="picture of SEO notepad" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
-'''html
+```html
 
 * added "alt" feature to site in order to better accessibility when pictures do not load
-'''html
+```html
  <div class="hero"></div>
     <div class="content">
         <div id="search-engine-optimization" class="search-engine-optimization">
@@ -73,10 +73,10 @@ class="header">
         </div>
     </div>
 </div>
-'''html
+```html
 
 * separated code and created aside and footer html structures 
-'''html
+```html
  <aside>
  class="benefits">
         <div class="benefit-lead">
@@ -108,4 +108,4 @@ class="header">
         &copy; 2024 Horiseon Social Solution Services, Inc.
     </p>
  </footer>
- '''html
+```html
